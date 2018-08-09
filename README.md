@@ -1,3 +1,5 @@
-# Project 0
+# Personal Site
 
-Web Programming with Python and JavaScript
+A personal website for myself, using very simple design and as little noise as possible.
+
+In progress
